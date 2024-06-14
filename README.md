@@ -16,3 +16,10 @@ cargo install rust-script
 ./a.rs
 1
 ```
+
+
+
+
+
+
+aaaaaaaaaaaaaaaaaaa
